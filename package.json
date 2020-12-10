@@ -1,0 +1,23 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm ci && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamTownsley/PersonalSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamTownsley/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/LiamTownsley/PersonalSite#readme",
+  "dependencies": {
+    "webpack": "^5.10.0"
+  }
+}
